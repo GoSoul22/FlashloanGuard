@@ -8,11 +8,11 @@ abstract contract FlashloanGuard {
     uint256 private _blockNumber;
 
     constructor() {}
-
-
+    
     modifier entrance() {
         _customer = tx.origin;
         _blockNumber = block.number;
+        
         _;
     }
 
