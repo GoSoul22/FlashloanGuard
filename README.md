@@ -17,3 +17,5 @@ The concept is simple. Prohibit deposits and withdrawals within one single trans
 Acknowledgment
 
 This method was supported by Dr. Dan She, who provided insight and expertise.
+
+https://soul22.substack.com/p/how-to-prevent-flash-loan-attacks
